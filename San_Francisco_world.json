@@ -1,0 +1,1957 @@
+{
+  "name": "San_Francisco",
+  "path": "San_Francisco/",
+  "alias": {
+    "fr": "San Francisco",
+    "zh-Hans": "旧金山",
+    "pt": "São Francisco",
+    "es": "San Francisco",
+    "en": "San Francisco",
+    "de": "San Francisco",
+    "it": "San Francisco"
+  },
+  "children": [
+    {
+      "name": "About_San_Francisco",
+      "path": "San_Francisco/About_San_Francisco/",
+      "alias": {
+        "fr": "San Francisco",
+        "zh-Hans": "旧金山",
+        "pt": "São Francisco",
+        "es": "San Francisco",
+        "en": "About San Francisco",
+        "de": "San Francisco",
+        "it": "San Francisco"
+      },
+      "children": [
+        {
+          "name": "The_City",
+          "path": "San_Francisco/About_San_Francisco/The_City/",
+          "alias": {
+            "fr": "La Ville",
+            "zh-Hans": "城市",
+            "pt": "A Cidade",
+            "es": "La Ciudad",
+            "en": "The City",
+            "de": "Die Stadt",
+            "it": "La Città"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_273400325.jpg",
+            "shutterstock_235588966.jpg"
+          ]
+        },
+        {
+          "name": "Districts",
+          "path": "San_Francisco/About_San_Francisco/Districts/",
+          "alias": {
+            "fr": "Districts",
+            "zh-Hans": "区",
+            "pt": "Distritos",
+            "es": "Distritos",
+            "en": "Districts",
+            "de": "Stadtteile",
+            "it": "Come orientarsi"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_184856327.jpg",
+            "shutterstock_154884305.jpg"
+          ]
+        },
+        {
+          "name": "Understand",
+          "path": "San_Francisco/About_San_Francisco/Understand/",
+          "alias": {
+            "zh-Hans": "了解",
+            "pt": "Descobrir",
+            "es": "Contexto",
+            "en": "Understand",
+            "de": "Hintergrund",
+            "it": "Da sapere"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_175626272.jpg",
+            "shutterstock_350398172.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "In_1_day",
+      "path": "San_Francisco/In_1_day/",
+      "alias": {
+        "fr": "En 1 jour",
+        "zh-Hans": "1天",
+        "pt": "Em 1 dia",
+        "es": "En 1 día",
+        "en": "In 1 day",
+        "de": "Chinatown",
+        "it": "In 1 giorno"
+      },
+      "children": [
+        {
+          "name": "Circuit_Overview",
+          "path": "San_Francisco/In_1_day/Circuit_Overview/",
+          "alias": {
+            "fr": "Description du Circuit",
+            "zh-Hans": "概述",
+            "pt": "Descrição do Circuito",
+            "es": "Descripción del Circuito",
+            "en": "Circuit Overview",
+            "it": "Descrizione del Percorso"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_93338734.jpg",
+            "shutterstock_20644423.jpg"
+          ]
+        },
+        {
+          "name": "Golden_Gate_Bridge_2",
+          "path": "San_Francisco/In_1_day/Golden_Gate_Bridge_2/",
+          "alias": {
+            "fr": "Golden Gate Bridge",
+            "zh-Hans": "金门大桥",
+            "pt": "Ponte Golden Gate",
+            "es": "Puente Golden Gate",
+            "en": "Golden Gate Bridge",
+            "de": "Golden Gate Bridge",
+            "it": "Golden Gate Bridge"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_143454757.jpg",
+            "shutterstock_348918839.jpg"
+          ],
+          "location": [
+            37.816388888889,
+            -122.47833333333
+          ]
+        },
+        {
+          "name": "The_Palace_of_Fine_Arts",
+          "path": "San_Francisco/In_1_day/The_Palace_of_Fine_Arts/",
+          "alias": {
+            "fr": "Palace of Fine Arts",
+            "zh-Hans": "藝術宮",
+            "pt": "Palácio de Belas Artes",
+            "es": "Palacio de Bellas Artes",
+            "en": "The Palace of Fine Arts",
+            "de": "Palace of Fine Arts",
+            "it": "Palazzo delle Belle Arti"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_350088752.jpg",
+            "shutterstock_358506671.jpg"
+          ],
+          "location": [
+            37.802777777778,
+            -122.44833333333
+          ]
+        },
+        {
+          "name": "Pacific_Heights",
+          "path": "San_Francisco/In_1_day/Pacific_Heights/",
+          "alias": {
+            "fr": "Pacific Heights",
+            "zh-Hans": "太平洋高地",
+            "pt": "Pacific Heights",
+            "es": "Pacific Heights",
+            "en": "Pacific Heights",
+            "de": "Pacific Heights",
+            "it": "Pacific Heights"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_171876170.jpg",
+            "shutterstock_180598424.jpg"
+          ],
+          "location": [
+            37.792777777778,
+            -122.43722222222
+          ]
+        },
+        {
+          "name": "Golden_Gate_Park",
+          "path": "San_Francisco/In_1_day/Golden_Gate_Park/",
+          "alias": {
+            "fr": "Golden Gate Park",
+            "zh-Hans": "金门公园",
+            "pt": "Parque Golden Gate",
+            "es": "Parque Golden Gate",
+            "en": "Golden Gate Park",
+            "de": "Golden Gate Park",
+            "it": "Golden Gate Park"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_253676200.jpg",
+            "shutterstock_252725005.jpg"
+          ],
+          "location": [
+            37.769166666667,
+            -122.48777777778
+          ]
+        },
+        {
+          "name": "Japanese_Tea_Garden",
+          "path": "San_Francisco/In_1_day/Japanese_Tea_Garden/",
+          "alias": {
+            "fr": "Jardin de thé Japonais",
+            "zh-Hans": "日本茶园",
+            "pt": "Jardim de Chá Japonês",
+            "es": "Jardín japonés Hagiwara",
+            "en": "Japanese Tea Garden",
+            "de": "Japanese Tea Garden",
+            "it": "Giardino del Tè Giapponese"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_377816581.jpg",
+            "shutterstock_370870931.jpg"
+          ],
+          "location": [
+            37.77,
+            -122.46972222222
+          ]
+        },
+        {
+          "name": "Coit_Tower",
+          "path": "San_Francisco/In_1_day/Coit_Tower/",
+          "alias": {
+            "fr": "Coit Tower",
+            "zh-Hans": "科伊特塔",
+            "pt": "Torre Coit",
+            "es": "Torre Coit",
+            "en": "Coit Tower",
+            "de": "Coit Tower",
+            "it": "Coit Tower"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_145255786.jpg",
+            "shutterstock_280000928.jpg"
+          ],
+          "location": [
+            37.8025,
+            -122.40611111111
+          ]
+        },
+        {
+          "name": "Fisherman_s_Wharf",
+          "path": "San_Francisco/In_1_day/Fisherman_s_Wharf/",
+          "alias": {
+            "fr": "Fisherman's Wharf",
+            "zh-Hans": "渔人码头",
+            "pt": "Fisherman's Wharf",
+            "es": "Fisherman's Wharf",
+            "en": "Fisherman's Wharf",
+            "de": "Fisherman’s Wharf",
+            "it": "Fisherman's Wharf"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_203884975.jpg",
+            "shutterstock_168450284.jpg"
+          ],
+          "location": [
+            37.809166666667,
+            -122.41638888889
+          ]
+        },
+        {
+          "name": "Pier_39_2",
+          "path": "San_Francisco/In_1_day/Pier_39_2/",
+          "alias": {
+            "fr": "Quai 39",
+            "zh-Hans": "39号码头",
+            "pt": "Cais 39",
+            "es": "Muelle 39",
+            "en": "Pier 39",
+            "de": "Pier 39",
+            "it": "Molo 39"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_337654937.jpg",
+            "shutterstock_372543931.jpg"
+          ],
+          "location": [
+            37.81,
+            -122.41027777778
+          ]
+        },
+        {
+          "name": "Ghirardelli_Square",
+          "path": "San_Francisco/In_1_day/Ghirardelli_Square/",
+          "alias": {
+            "fr": "Ghirardelli Square",
+            "zh-Hans": "吉拉德里广场",
+            "pt": "Praça Ghirardelli",
+            "es": "Plaza Ghirardelli",
+            "en": "Ghirardelli Square",
+            "de": "Ghirardelli Square",
+            "it": "Ghirardelli Square"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_356181401.jpg",
+            "shutterstock_297083441.jpg"
+          ]
+        },
+        {
+          "name": "F_Market___Wharves",
+          "path": "San_Francisco/In_1_day/F_Market___Wharves/",
+          "alias": {
+            "fr": "Market F et Quais",
+            "zh-Hans": "F市场及码头",
+            "pt": "Mercado F e Cais",
+            "es": "F Market & Wharves",
+            "en": "F Market & Wharves",
+            "de": "F Market & Wharves",
+            "it": "Mercato F e Moli"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_168819773.jpg",
+            "shutterstock_178107389.jpg"
+          ],
+          "location": [
+            37.794166666667,
+            -122.39472222222
+          ]
+        },
+        {
+          "name": "Chinatown",
+          "path": "San_Francisco/In_1_day/Chinatown/",
+          "alias": {
+            "fr": "Chinatown",
+            "zh-Hans": "旧金山唐人街",
+            "pt": "Bairro Chinês",
+            "es": "Barrio Chino",
+            "en": "Chinatown",
+            "de": "Chinatown",
+            "it": "Chinatown"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_98323685.jpg",
+            "shutterstock_339144989.jpg"
+          ],
+          "location": [
+            37.796388888889,
+            -122.40944444444
+          ]
+        }
+      ]
+    },
+    {
+      "name": "In_2_days",
+      "path": "San_Francisco/In_2_days/",
+      "alias": {
+        "fr": "Dans 2 jours",
+        "zh-Hans": "2天",
+        "pt": "Em 2 dias",
+        "es": "En 2 días",
+        "en": "In 2 days",
+        "de": "In 2 Tagen",
+        "it": "In 2 giorni"
+      },
+      "children": [
+        {
+          "name": "Circuit_Overview",
+          "path": "San_Francisco/In_2_days/Circuit_Overview/",
+          "alias": {
+            "fr": "Description du Circuit",
+            "zh-Hans": "概述",
+            "pt": "Descrição do Circuito",
+            "es": "Descripción del Circuito",
+            "en": "Circuit Overview",
+            "it": "Descrizione del Percorso"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_2292943.jpg",
+            "shutterstock_3554499.jpg"
+          ]
+        },
+        {
+          "name": "Alcatraz",
+          "path": "San_Francisco/In_2_days/Alcatraz/",
+          "alias": {
+            "fr": "Alcatraz",
+            "zh-Hans": "恶魔岛",
+            "pt": "Alcatraz",
+            "es": "Alcatraz",
+            "en": "Alcatraz",
+            "de": "Alcatraz",
+            "it": "Alcatraz"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_239675659.jpg",
+            "shutterstock_376261543.jpg"
+          ],
+          "location": [
+            37.826944444444,
+            -122.42333333333
+          ]
+        },
+        {
+          "name": "The_Castro",
+          "path": "San_Francisco/In_2_days/The_Castro/",
+          "alias": {
+            "fr": "Le Castro",
+            "zh-Hans": "卡斯楚街",
+            "pt": "O Castro",
+            "es": "Castro",
+            "en": "The Castro",
+            "de": "The Castro",
+            "it": "Il Castro"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_98519822.jpg",
+            "shutterstock_304258118.jpg"
+          ],
+          "location": [
+            37.762222222222,
+            -122.43583333333
+          ]
+        },
+        {
+          "name": "Kezar_Stadium",
+          "path": "San_Francisco/In_2_days/Kezar_Stadium/",
+          "alias": {
+            "fr": "Stade Kezar",
+            "zh-Hans": "凯萨尔体育场",
+            "pt": "Estádio Kezar   ",
+            "es": "Estadio Kezar",
+            "en": "Kezar Stadium",
+            "de": "Kezar Stadion",
+            "it": "Stadio Kezar"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_57306895.jpg",
+            "shutterstock_57306883.jpg"
+          ],
+          "location": [
+            37.766666666667,
+            -122.45583333333
+          ]
+        },
+        {
+          "name": "Civic_Center",
+          "path": "San_Francisco/In_2_days/Civic_Center/",
+          "alias": {
+            "fr": "Civic Center",
+            "zh-Hans": "市政中心",
+            "pt": "Centro Cívico",
+            "es": "Centro Cívico",
+            "en": "Civic Center",
+            "de": "Behördenviertel",
+            "it": "Centro Cívico"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_350202188.jpg",
+            "shutterstock_257320477.jpg"
+          ],
+          "location": [
+            37.780833333333,
+            -122.41972222222
+          ]
+        },
+        {
+          "name": "City_Hall",
+          "path": "San_Francisco/In_2_days/City_Hall/",
+          "alias": {
+            "fr": "Hôtel de ville",
+            "zh-Hans": "旧金山市政厅",
+            "pt": "A Prefeitura",
+            "es": "El Ayuntamiento",
+            "en": "City Hall",
+            "de": "City Hall",
+            "it": "Il Comune"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_347282801.jpg",
+            "shutterstock_174283142.jpg"
+          ],
+          "location": [
+            37.779166666667,
+            -122.41888888889
+          ]
+        },
+        {
+          "name": "War_Memorial_Veterans_Building",
+          "path": "San_Francisco/In_2_days/War_Memorial_Veterans_Building/",
+          "alias": {
+            "fr": "Bâtiment Commémoratif aux Anciens Combattants",
+            "zh-Hans": "战争退伍军人纪念大厦",
+            "pt": "Prédio à Memorial dos Veteranos de Guerra",
+            "es": "Memorial de los Veteranos de Guerra",
+            "en": "War Memorial Veterans Building",
+            "de": "War Memorial Veterans Building",
+            "it": "Edificio Memoriale ai Veterani di Guerra"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_287050601.jpg"
+          ],
+          "location": [
+            37.778611111111,
+            -122.42055555556
+          ]
+        },
+        {
+          "name": "Lombard_Street",
+          "path": "San_Francisco/In_2_days/Lombard_Street/",
+          "alias": {
+            "fr": "Lombard Street",
+            "zh-Hans": "倫巴底街",
+            "pt": "Rua Lombard",
+            "es": "Lombard Street",
+            "en": "Lombard Street",
+            "de": "Lombard Street",
+            "it": "Lombard Street"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_157280024.jpg",
+            "shutterstock_232016431.jpg"
+          ],
+          "location": [
+            37.800555555556,
+            -122.42972222222
+          ]
+        },
+        {
+          "name": "The_Transamerica_Pyramid",
+          "path": "San_Francisco/In_2_days/The_Transamerica_Pyramid/",
+          "alias": {
+            "fr": "Transamerica Pyramid",
+            "zh-Hans": "泛美金字塔",
+            "pt": "Transamerica Pyramid",
+            "es": "Pirámide Transamerica",
+            "en": "The Transamerica Pyramid",
+            "de": "Transamerica Pyramid",
+            "it": "Transamerica Pyramid"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_279310514.jpg",
+            "shutterstock_150571181.jpg"
+          ],
+          "location": [
+            37.795,
+            -122.4025
+          ]
+        },
+        {
+          "name": "Alamo_Square_Park",
+          "path": "San_Francisco/In_2_days/Alamo_Square_Park/",
+          "alias": {
+            "fr": "Alamo Square",
+            "zh-Hans": "阿拉莫广场",
+            "pt": "Parque Alamo Square",
+            "es": "Alamo Square",
+            "en": "Alamo Square Park",
+            "de": "Alamo Square Park",
+            "it": "Alamo Square Park"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_255355807.jpg",
+            "shutterstock_242832892.jpg"
+          ],
+          "location": [
+            37.776388888889,
+            -122.43444444444
+          ]
+        }
+      ]
+    },
+    {
+      "name": "In_3_days",
+      "path": "San_Francisco/In_3_days/",
+      "alias": {
+        "fr": "Dans 3 jours",
+        "zh-Hans": "3天",
+        "pt": "Em 3 dias",
+        "es": "En 3 días",
+        "en": "In 3 days",
+        "de": "In 3 Tagen",
+        "it": "In 3 giorni"
+      },
+      "children": [
+        {
+          "name": "Circuit_Overview",
+          "path": "San_Francisco/In_3_days/Circuit_Overview/",
+          "alias": {
+            "fr": "Description du Circuit",
+            "zh-Hans": "概述",
+            "pt": "Descrição do Circuito",
+            "es": "Descripción del Circuito",
+            "en": "Circuit Overview",
+            "it": "Descrizione del Percorso"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_3529142.jpg",
+            "shutterstock_1706039.jpg"
+          ]
+        },
+        {
+          "name": "Bernal_Heights",
+          "path": "San_Francisco/In_3_days/Bernal_Heights/",
+          "alias": {
+            "fr": "Bernal Heights",
+            "zh-Hans": "伯纳尔高地",
+            "pt": "Bernal Heights",
+            "es": "Cima de los Altos de Bernál",
+            "en": "Bernal Heights",
+            "de": "Bernal Heights",
+            "it": "Bernal Heights"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_106631651.jpg",
+            "shutterstock_106631654.jpg"
+          ],
+          "location": [
+            37.742777777778,
+            -122.415
+          ]
+        },
+        {
+          "name": "Berkeley",
+          "path": "San_Francisco/In_3_days/Berkeley/",
+          "alias": {
+            "fr": "Berkeley",
+            "zh-Hans": "伯克利",
+            "pt": "Berkeley",
+            "es": "Berkeley",
+            "en": "Berkeley",
+            "de": "Berkeley",
+            "it": "Berkeley"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_142473835.jpg",
+            "shutterstock_232216600.jpg"
+          ],
+          "location": [
+            37.869444444444,
+            -122.27083333333
+          ]
+        },
+        {
+          "name": "University_of_California",
+          "path": "San_Francisco/In_3_days/University_of_California/",
+          "alias": {
+            "fr": "Université de Californie",
+            "zh-Hans": "加州大學柏克萊分校",
+            "pt": "Universidade da Califórnia",
+            "es": "Universidad de California",
+            "en": "University of California",
+            "de": "University of California",
+            "it": "Università della California"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_164776577.jpg",
+            "shutterstock_142473832.jpg"
+          ],
+          "location": [
+            37.875555555556,
+            -122.24361111111
+          ]
+        },
+        {
+          "name": "Lawrence_Hall_of_Science",
+          "path": "San_Francisco/In_3_days/Lawrence_Hall_of_Science/",
+          "alias": {
+            "fr": "Salon des Sciences Lawrence",
+            "zh-Hans": "劳伦斯科技馆",
+            "pt": "Sala de Ciências Lawrence",
+            "es": "Salón de Ciencias Lawrence",
+            "en": "Lawrence Hall of Science",
+            "de": "Lawrence Hall of Science",
+            "it": "Lawrence Hall of Science"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_223799131.jpg",
+            "shutterstock_71221306.jpg"
+          ],
+          "location": [
+            37.879166666667,
+            -122.24638888889
+          ]
+        },
+        {
+          "name": "Berkeley_Art_Museum",
+          "path": "San_Francisco/In_3_days/Berkeley_Art_Museum/",
+          "alias": {
+            "fr": "Berkeley Art Museum",
+            "zh-Hans": "伯克利艺术博物馆",
+            "pt": "Museu de Arte Berkeley",
+            "es": "Museo de Arte Berkeley",
+            "en": "Berkeley Art Museum",
+            "de": "Berkeley Art Museum",
+            "it": "Museo d'Arte Berkeley"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_164775995.jpg",
+            "shutterstock_110093258.jpg"
+          ],
+          "location": [
+            37.870555555556,
+            -122.26027777778
+          ]
+        },
+        {
+          "name": "Berkeley_Pier",
+          "path": "San_Francisco/In_3_days/Berkeley_Pier/",
+          "alias": {
+            "fr": "Quai Berkeley",
+            "zh-Hans": "伯克利码头",
+            "pt": "Cais Berkeley  ",
+            "es": "Muelle Berkeley",
+            "en": "Berkeley Pier",
+            "de": "Berkeley Pier",
+            "it": "Molo Berkeley"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_57375811.jpg",
+            "shutterstock_112397174.jpg"
+          ],
+          "location": [
+            37.863888888889,
+            -122.31444444444
+          ]
+        },
+        {
+          "name": "Indian_Rock_Park",
+          "path": "San_Francisco/In_3_days/Indian_Rock_Park/",
+          "alias": {
+            "fr": "Indian Rock Park",
+            "zh-Hans": "因丁罗克公园",
+            "pt": "Parque Indian Rock",
+            "es": "Parque Indian Rock",
+            "en": "Indian Rock Park",
+            "de": "Indian Rock Park",
+            "it": "Parco Rock indiano"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_286056521.jpg"
+          ],
+          "location": [
+            37.892222222222,
+            -122.27277777778
+          ]
+        }
+      ]
+    },
+    {
+      "name": "In_5_days",
+      "path": "San_Francisco/In_5_days/",
+      "alias": {
+        "fr": "Dans 5 jours",
+        "zh-Hans": "5天",
+        "pt": "Em 5 dias",
+        "es": "En 5 días",
+        "en": "In 5 days",
+        "de": "In 5 Tagen",
+        "it": "In 5 giorni"
+      },
+      "children": [
+        {
+          "name": "Circuit_Overview",
+          "path": "San_Francisco/In_5_days/Circuit_Overview/",
+          "alias": {
+            "fr": "Description du Circuit",
+            "zh-Hans": "概述",
+            "pt": "Descrição do Circuito",
+            "es": "Descripción del Circuito",
+            "en": "Circuit Overview",
+            "it": "Descrizione del Percorso"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_148170698.jpg",
+            "shutterstock_236007733.jpg"
+          ]
+        },
+        {
+          "name": "Sausalito",
+          "path": "San_Francisco/In_5_days/Sausalito/",
+          "alias": {
+            "fr": "Sausalito",
+            "zh-Hans": "索萨利托",
+            "pt": "Sausalito",
+            "es": "Sausalito",
+            "en": "Sausalito",
+            "de": "Sausalito",
+            "it": "Sausalito"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_282732959.jpg",
+            "shutterstock_341542214.jpg"
+          ],
+          "location": [
+            37.858333333333,
+            -122.48472222222
+          ]
+        },
+        {
+          "name": "Farallon_Islands",
+          "path": "San_Francisco/In_5_days/Farallon_Islands/",
+          "alias": {
+            "fr": "Îles Farallon",
+            "zh-Hans": "法伦群岛",
+            "pt": "Ilhas Farallon",
+            "es": "Islas Farallón",
+            "en": "Farallon Islands",
+            "de": "Farallon-Inseln",
+            "it": "Isole Farallon"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_16720.jpg"
+          ]
+        },
+        {
+          "name": "Palo_Alto",
+          "path": "San_Francisco/In_5_days/Palo_Alto/",
+          "alias": {
+            "fr": "Palo Alto",
+            "zh-Hans": "帕羅奧圖",
+            "pt": "Palo Alto",
+            "es": "Palo Alto",
+            "en": "Palo Alto",
+            "de": "Palo Alto",
+            "it": "Palo Alto"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_281671808.jpg"
+          ],
+          "location": [
+            37.440833333333,
+            -122.16416666667
+          ]
+        },
+        {
+          "name": "Stanford_University",
+          "path": "San_Francisco/In_5_days/Stanford_University/",
+          "alias": {
+            "fr": "Université Stanford",
+            "zh-Hans": "史丹佛大學",
+            "pt": "Universidade Stanford",
+            "es": "Universidad Stanford",
+            "en": "Stanford University",
+            "de": "Stanford University",
+            "it": "Università di Stanford"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_189691379.jpg",
+            "shutterstock_317917346.jpg"
+          ],
+          "location": [
+            37.430833333333,
+            -122.16944444444
+          ]
+        },
+        {
+          "name": "Packard_s_Garage",
+          "path": "San_Francisco/In_5_days/Packard_s_Garage/",
+          "alias": {
+            "fr": "Garage Hewlett-Packard",
+            "zh-Hans": "惠普车库",
+            "pt": "Garagem de Packard",
+            "es": "Garaje HP",
+            "en": "Packard's Garage",
+            "de": "Packard Garage",
+            "it": "Packard Garage"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_256594408.jpg",
+            "shutterstock_256594411.jpg"
+          ],
+          "location": [
+            37.443333333333,
+            -122.15444444444
+          ]
+        },
+        {
+          "name": "17_Mile_Drive",
+          "path": "San_Francisco/In_5_days/17_Mile_Drive/",
+          "alias": {
+            "fr": "17-Mile Drive",
+            "zh-Hans": "17英里",
+            "pt": "17-Mile Drive",
+            "es": "17-Mile Drive",
+            "en": "17-Mile Drive",
+            "de": "17-Mile Drive",
+            "it": "17-Mile Drive"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_377703526.jpg",
+            "shutterstock_159804293.jpg"
+          ],
+          "location": [
+            36.608333333333,
+            -121.95777777778
+          ]
+        },
+        {
+          "name": "Monterey",
+          "path": "San_Francisco/In_5_days/Monterey/",
+          "alias": {
+            "fr": "Monterey",
+            "zh-Hans": "蒙特雷",
+            "pt": "Monterey",
+            "es": "Monterrey",
+            "en": "Monterey",
+            "de": "Monterey",
+            "it": "Monterey"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_319086614.jpg",
+            "shutterstock_284987372.jpg"
+          ],
+          "location": [
+            36.599166666667,
+            -121.89527777778
+          ]
+        },
+        {
+          "name": "Monterey_Bay_Aquarium",
+          "path": "San_Francisco/In_5_days/Monterey_Bay_Aquarium/",
+          "alias": {
+            "fr": "Aquarium de la Baie de Monterrey",
+            "zh-Hans": "蒙特雷湾水族馆",
+            "pt": "Aquário da Baía de Monterey",
+            "es": "Acuario de la Bahía de Monterey",
+            "en": "Monterey Bay Aquarium",
+            "de": "Monterey Bay Aquarium",
+            "it": "Acquario della Baia Monterey"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_102267217.jpg",
+            "shutterstock_223493.jpg"
+          ],
+          "location": [
+            36.62,
+            -121.90416666667
+          ]
+        },
+        {
+          "name": "Carmel_by_the_Sea",
+          "path": "San_Francisco/In_5_days/Carmel_by_the_Sea/",
+          "alias": {
+            "fr": "Carmel-by-the-Sea",
+            "zh-Hans": "美国卡美尔",
+            "pt": "Carmel-by-the-Sea",
+            "es": "Carmel-by-the-Sea",
+            "en": "Carmel-by-the-Sea",
+            "de": "Carmel-by-the-Sea",
+            "it": "Carmel-by-the-Sea"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_65573398.jpg",
+            "shutterstock_47239573.jpg"
+          ]
+        },
+        {
+          "name": "Sunset_District",
+          "path": "San_Francisco/In_5_days/Sunset_District/",
+          "alias": {
+            "fr": "District Sunset",
+            "zh-Hans": "日落区",
+            "pt": "Distrito Sunset",
+            "es": "Distrito Sunset",
+            "en": "Sunset District",
+            "de": "Sunset Distrikt",
+            "it": "Distretto Sunset"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_188483057.jpg"
+          ],
+          "location": [
+            37.753333333333,
+            -122.49222222222
+          ]
+        },
+        {
+          "name": "Ocean_Beach",
+          "path": "San_Francisco/In_5_days/Ocean_Beach/",
+          "alias": {
+            "fr": "Ocean Beach",
+            "zh-Hans": "大洋滩",
+            "pt": "Ocean Beach",
+            "es": "Ocean Beach",
+            "en": "Ocean Beach",
+            "de": "Ocean Beach",
+            "it": "Ocean Beach"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_316230860.jpg",
+            "shutterstock_54378742.jpg"
+          ],
+          "location": [
+            37.76,
+            -122.51083333333
+          ]
+        },
+        {
+          "name": "Baker_Beach",
+          "path": "San_Francisco/In_5_days/Baker_Beach/",
+          "alias": {
+            "fr": "Plage Baker",
+            "zh-Hans": "贝克滩",
+            "pt": "Baker Beach",
+            "es": "Baker Beach",
+            "en": "Baker Beach",
+            "de": "Baker Beach",
+            "it": "Baker Beach"
+          },
+          "contents": [
+            "images",
+            "html",
+            "location"
+          ],
+          "images": [
+            "shutterstock_326857373.jpg",
+            "shutterstock_256348048.jpg"
+          ],
+          "location": [
+            37.793888888889,
+            -122.48333333333
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eating",
+      "path": "San_Francisco/Eating/",
+      "alias": {
+        "fr": "Manger",
+        "zh-Hans": "吃",
+        "pt": "Coma",
+        "es": "Comer",
+        "en": "Eating",
+        "de": "Küche",
+        "it": "Dove mangiare"
+      },
+      "children": [
+        {
+          "name": "Overview_1",
+          "path": "San_Francisco/Eating/Overview_1/",
+          "alias": {
+            "fr": "Vue générale",
+            "zh-Hans": "概述",
+            "pt": "Informação Geral",
+            "es": " Información General",
+            "en": "Overview",
+            "de": "Überblick",
+            "it": "Informazione Generale"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_357003122.jpg",
+            "shutterstock_294656021.jpg"
+          ]
+        },
+        {
+          "name": "__5___20",
+          "path": "San_Francisco/Eating/__5___20/",
+          "alias": {
+            "fr": "$ 5 - 20",
+            "zh-Hans": "$ 5 - 20",
+            "pt": "$ 5 - 20",
+            "es": "$ 5 - 20",
+            "en": "$ 5 - 20",
+            "de": "$ 5 - 20",
+            "it": "$ 5 - 20"
+          },
+          "contents": [
+            "places2go",
+            "images",
+            "html"
+          ],
+          "places2go": [
+            "sanfrancisco_eating520"
+          ],
+          "images": [
+            "shutterstock_98304197.jpg",
+            "shutterstock_336740072.jpg"
+          ]
+        },
+        {
+          "name": "__20___30",
+          "path": "San_Francisco/Eating/__20___30/",
+          "alias": {
+            "fr": "$ 20 - 30",
+            "zh-Hans": "$ 20 - 30",
+            "pt": "$ 20 - 30",
+            "es": "$ 20 - 30",
+            "en": "$ 20 - 30",
+            "de": "$ 20 - 30",
+            "it": "$ 20 - 30"
+          },
+          "contents": [
+            "places2go",
+            "images",
+            "html"
+          ],
+          "places2go": [
+            "sanfrancisco_eating2030"
+          ],
+          "images": [
+            "shutterstock_215654965.jpg",
+            "shutterstock_246523462.jpg"
+          ]
+        },
+        {
+          "name": "__30___50",
+          "path": "San_Francisco/Eating/__30___50/",
+          "alias": {
+            "fr": "$ 30 - 50",
+            "zh-Hans": "$ 30 - 50",
+            "pt": "$ 30 - 50",
+            "es": "$ 30 - 50",
+            "en": "$ 30 - 50",
+            "de": "$ 30 - 50",
+            "it": "$ 30 - 50"
+          },
+          "contents": [
+            "places2go",
+            "images",
+            "html"
+          ],
+          "places2go": [
+            "sanfrancisco_eating3050"
+          ],
+          "images": [
+            "shutterstock_7339123.jpg",
+            "shutterstock_4829572.jpg"
+          ]
+        },
+        {
+          "name": "___50",
+          "path": "San_Francisco/Eating/___50/",
+          "alias": {
+            "fr": "$ 50",
+            "zh-Hans": "$ 50",
+            "pt": "$ 50",
+            "es": "$ 50",
+            "en": "$ 50",
+            "de": "$ 50",
+            "it": "$ 50"
+          },
+          "contents": [
+            "places2go",
+            "images",
+            "html"
+          ],
+          "places2go": [
+            "sanfrancisco_eating50"
+          ],
+          "images": [
+            "shutterstock_356534444.jpg",
+            "shutterstock_185183969.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sleeping",
+      "path": "San_Francisco/Sleeping/",
+      "alias": {
+        "fr": "Se loger",
+        "zh-Hans": "睡在",
+        "pt": "Durma",
+        "es": "Dormir",
+        "en": "Sleeping",
+        "de": "Unterkunft",
+        "it": "Dove alloggiare"
+      },
+      "children": [
+        {
+          "name": "Overview_2",
+          "path": "San_Francisco/Sleeping/Overview_2/",
+          "alias": {
+            "fr": "Vue générale",
+            "zh-Hans": "概述",
+            "pt": "Informação Geral",
+            "es": "Información General",
+            "en": "Overview",
+            "de": "Überblick",
+            "it": "Presentazione"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_262453760.jpg",
+            "shutterstock_171856343.jpg"
+          ]
+        },
+        {
+          "name": "__30___50_2",
+          "path": "San_Francisco/Sleeping/__30___50_2/",
+          "alias": {
+            "fr": "$ 30 - 50",
+            "zh-Hans": "$ 30 - 50",
+            "pt": "$ 30 - 50",
+            "es": "$ 30 - 50",
+            "en": "$ 30 - 50",
+            "de": "$ 30 - 50",
+            "it": "$ 30 - 50"
+          },
+          "contents": [
+            "places2go",
+            "images",
+            "html"
+          ],
+          "places2go": [
+            "sanfrancisco_sleeping3050"
+          ],
+          "images": [
+            "shutterstock_129498593.jpg",
+            "shutterstock_247316842.jpg"
+          ]
+        },
+        {
+          "name": "__50___70",
+          "path": "San_Francisco/Sleeping/__50___70/",
+          "alias": {
+            "fr": "$ 50 - 70",
+            "zh-Hans": "$ 50 - 70",
+            "pt": "$ 50 - 70",
+            "es": "$ 50 - 70",
+            "en": "$ 50 - 70",
+            "de": "$ 50 - 70",
+            "it": "$ 50 - 70"
+          },
+          "contents": [
+            "places2go",
+            "images",
+            "html"
+          ],
+          "places2go": [
+            "sanfrancisco_sleeping5070"
+          ],
+          "images": [
+            "shutterstock_157906352.jpg",
+            "shutterstock_317347619.jpg"
+          ]
+        },
+        {
+          "name": "__70___100",
+          "path": "San_Francisco/Sleeping/__70___100/",
+          "alias": {
+            "fr": "$ 70 - 100",
+            "zh-Hans": "$ 70 - 100",
+            "pt": "$ 70 - 100",
+            "es": "$ 70 - 100",
+            "en": "$ 70 - 100",
+            "de": "$ 70 - 100",
+            "it": "$ 70 - 100"
+          },
+          "contents": [
+            "places2go",
+            "images",
+            "html"
+          ],
+          "places2go": [
+            "sanfrancisco_sleeping70100"
+          ],
+          "images": [
+            "shutterstock_356152715.jpg",
+            "shutterstock_317347760.jpg"
+          ]
+        },
+        {
+          "name": "___100",
+          "path": "San_Francisco/Sleeping/___100/",
+          "alias": {
+            "fr": "$ 100",
+            "zh-Hans": "$ 100",
+            "pt": "$ 100",
+            "es": "$ 100",
+            "en": "$ 100",
+            "de": "$ 100",
+            "it": "$ 100"
+          },
+          "contents": [
+            "places2go",
+            "images",
+            "html"
+          ],
+          "places2go": [
+            "sanfrancisco_sleeping100"
+          ],
+          "images": [
+            "shutterstock_316044092.jpg",
+            "shutterstock_208506619.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "path": "San_Francisco/Shopping/",
+      "alias": {
+        "fr": "Acheter",
+        "zh-Hans": "购物",
+        "pt": "Compre",
+        "es": "Comprar",
+        "en": "Shopping",
+        "de": "Einkaufen",
+        "it": "Acquisti"
+      },
+      "children": [
+        {
+          "name": "Overview_3",
+          "path": "San_Francisco/Shopping/Overview_3/",
+          "alias": {
+            "fr": "Vue générale",
+            "zh-Hans": "概述",
+            "pt": "Informação Geral",
+            "es": "Información General",
+            "en": "Overview",
+            "de": "Überblick",
+            "it": "Informazione Generale"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_295908488.jpg",
+            "shutterstock_347406701.jpg"
+          ]
+        },
+        {
+          "name": "Antiques",
+          "path": "San_Francisco/Shopping/Antiques/",
+          "alias": {
+            "fr": "Antiquités",
+            "zh-Hans": "古董",
+            "pt": "Antiguidades",
+            "es": "Antigüedades",
+            "en": "Antiques",
+            "de": "Antiquitäten",
+            "it": "Antiquariato"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_98323691.jpg",
+            "shutterstock_340880915.jpg"
+          ]
+        },
+        {
+          "name": "Books",
+          "path": "San_Francisco/Shopping/Books/",
+          "alias": {
+            "fr": "Livres",
+            "zh-Hans": "书籍",
+            "pt": "Livros",
+            "es": "Libros",
+            "en": "Books",
+            "de": "Bücher",
+            "it": "Libri"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_90270568.jpg",
+            "shutterstock_62129542.jpg"
+          ]
+        },
+        {
+          "name": "Fashion",
+          "path": "San_Francisco/Shopping/Fashion/",
+          "alias": {
+            "fr": "Mode",
+            "zh-Hans": "时尚",
+            "pt": "Moda",
+            "es": "Moda",
+            "en": "Fashion",
+            "de": "Mode",
+            "it": "Moda"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_355895441.jpg",
+            "shutterstock_367476890.jpg"
+          ]
+        },
+        {
+          "name": "Jewelry",
+          "path": "San_Francisco/Shopping/Jewelry/",
+          "alias": {
+            "fr": "Bijoux",
+            "zh-Hans": "首饰",
+            "pt": "Joalherias",
+            "es": "Joyerías",
+            "en": "Jewelry",
+            "de": "Schmucksachen",
+            "it": "Gioielli"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_227937823.jpg",
+            "shutterstock_250372291.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nightlife",
+      "path": "San_Francisco/Nightlife/",
+      "alias": {
+        "fr": "Vie nocturne",
+        "zh-Hans": "夜生活",
+        "pt": "Beba e saia",
+        "es": "Vida Nocturna",
+        "en": "Nightlife",
+        "de": "Nachtleben",
+        "it": "Come divertirsi"
+      },
+      "children": [
+        {
+          "name": "Overview_4",
+          "path": "San_Francisco/Nightlife/Overview_4/",
+          "alias": {
+            "fr": "En Bref",
+            "zh-Hans": "概述",
+            "pt": "Informação Geral",
+            "es": "Información General",
+            "en": "Overview",
+            "de": "Überblick",
+            "it": "Presentazione"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_172140083.jpg",
+            "shutterstock_182962838.jpg"
+          ]
+        },
+        {
+          "name": "Bars",
+          "path": "San_Francisco/Nightlife/Bars/",
+          "alias": {
+            "fr": "Bar",
+            "zh-Hans": "酒吧",
+            "pt": "Bares",
+            "es": "Bares",
+            "en": "Bars",
+            "de": "Bars",
+            "it": "Bar"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_373613995.jpg",
+            "shutterstock_218417818.jpg"
+          ]
+        },
+        {
+          "name": "Gaylife",
+          "path": "San_Francisco/Nightlife/Gaylife/",
+          "alias": {
+            "fr": "Lieux destinés aux Gays",
+            "zh-Hans": "同性恋生活",
+            "pt": "Balada Gay",
+            "es": "Movida Gay",
+            "en": "Gaylife",
+            "de": "Homosexuelle",
+            "it": "Scena Gay"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_3511321.jpg",
+            "shutterstock_177366692.jpg"
+          ]
+        },
+        {
+          "name": "Cafes",
+          "path": "San_Francisco/Nightlife/Cafes/",
+          "alias": {
+            "fr": "Cafes",
+            "zh-Hans": "咖啡馆",
+            "pt": "Confeitarias",
+            "es": "Cafes",
+            "en": "Cafes",
+            "de": "Cafés",
+            "it": "Caffè"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_171856346.jpg",
+            "shutterstock_6088657.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Moving_around",
+      "path": "San_Francisco/Moving_around/",
+      "alias": {
+        "fr": "Circules",
+        "zh-Hans": "运输",
+        "pt": "Circular",
+        "es": "Pasear",
+        "en": "Moving around",
+        "de": "Mobilität",
+        "it": "Come spostarsi"
+      },
+      "children": [
+        {
+          "name": "Public_Transit",
+          "path": "San_Francisco/Moving_around/Public_Transit/",
+          "alias": {
+            "fr": "Transports Public",
+            "zh-Hans": "公共交通",
+            "pt": "Transporte Público",
+            "es": "En transporte público",
+            "en": "Public Transit",
+            "de": "öffentlicher Verkehr",
+            "it": "Con mezzi pubblici"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_328249667.jpg",
+            "shutterstock_121485115.jpg"
+          ]
+        },
+        {
+          "name": "Taxis",
+          "path": "San_Francisco/Moving_around/Taxis/",
+          "alias": {
+            "fr": "Taxis",
+            "zh-Hans": "出租车",
+            "pt": "Táxis",
+            "es": "Taxis",
+            "en": "Taxis",
+            "de": "Taxi",
+            "it": "Taxi"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_381834049.jpg",
+            "shutterstock_373327231.jpg"
+          ]
+        },
+        {
+          "name": "Car",
+          "path": "San_Francisco/Moving_around/Car/",
+          "alias": {
+            "fr": "Voiture",
+            "zh-Hans": "小汽车",
+            "pt": "De autocarro/ônibus",
+            "es": "Coche",
+            "en": "Car",
+            "de": "Auto",
+            "it": "Automobile"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_347408786.jpg",
+            "shutterstock_347406773.jpg"
+          ]
+        },
+        {
+          "name": "Bicycle",
+          "path": "San_Francisco/Moving_around/Bicycle/",
+          "alias": {
+            "fr": "Vélos",
+            "zh-Hans": "自行车",
+            "pt": "Bicicleta",
+            "es": "Bicicleta",
+            "en": "Bicycle",
+            "de": "Fahrrad",
+            "it": "Biciclette"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_254067298.jpg",
+            "shutterstock_134229092.jpg"
+          ]
+        },
+        {
+          "name": "Walking",
+          "path": "San_Francisco/Moving_around/Walking/",
+          "alias": {
+            "fr": "A pied",
+            "zh-Hans": "散步",
+            "pt": "Caminhar",
+            "es": "A pie",
+            "en": "Walking",
+            "de": "Zu Fuβ",
+            "it": "Camminare"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_269446355.jpg",
+            "shutterstock_295907957.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Get_In",
+      "path": "San_Francisco/Get_In/",
+      "alias": {
+        "fr": "Aller",
+        "zh-Hans": "到达",
+        "pt": "Chegar",
+        "es": "Llegar",
+        "en": "Get In",
+        "de": "Anreise",
+        "it": "Come arrivare"
+      },
+      "children": [
+        {
+          "name": "By_plane",
+          "path": "San_Francisco/Get_In/By_plane/",
+          "alias": {
+            "fr": "En avion",
+            "zh-Hans": "乘飞机",
+            "pt": "De avião",
+            "es": "En avión",
+            "en": "By plane",
+            "de": "Mit dem Flugzeug",
+            "it": "In aereo"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_295913564.jpg",
+            "shutterstock_322258289.jpg"
+          ]
+        },
+        {
+          "name": "By_bus",
+          "path": "San_Francisco/Get_In/By_bus/",
+          "alias": {
+            "fr": "En bus",
+            "zh-Hans": "乘公共汽车",
+            "pt": "De ônibus",
+            "es": "En autobús",
+            "en": "By bus",
+            "de": "Mit dem Bus",
+            "it": "In autobus"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_299353187.jpg",
+            "shutterstock_206919865.jpg"
+          ]
+        },
+        {
+          "name": "By_train",
+          "path": "San_Francisco/Get_In/By_train/",
+          "alias": {
+            "fr": "En train",
+            "zh-Hans": "乘火车",
+            "pt": "De trem",
+            "es": "En tren",
+            "en": "By train",
+            "de": "Mit dem Zug",
+            "it": "In treno"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_322039169.jpg",
+            "shutterstock_9433885.jpg"
+          ]
+        },
+        {
+          "name": "By_ship",
+          "path": "San_Francisco/Get_In/By_ship/",
+          "alias": {
+            "fr": "En bateau",
+            "zh-Hans": "乘轮船",
+            "pt": "De barco",
+            "es": "En barco",
+            "en": "By ship",
+            "de": "Mit dem Schiff",
+            "it": "In nave"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_368939138.jpg",
+            "shutterstock_226355740.jpg"
+          ]
+        },
+        {
+          "name": "By_car",
+          "path": "San_Francisco/Get_In/By_car/",
+          "alias": {
+            "fr": "En voiture",
+            "zh-Hans": "开车",
+            "pt": "De carro",
+            "es": "En coche",
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "it": "In automobile"
+          },
+          "contents": [
+            "images",
+            "html"
+          ],
+          "images": [
+            "shutterstock_298259972.jpg",
+            "shutterstock_276508199.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
