@@ -1,4 +1,4 @@
-package jsonpiola;
+package app;
 
 import model.Nodo;
 import com.google.gson.Gson;
@@ -11,10 +11,8 @@ import java.io.FileReader;
 import java.lang.ProcessBuilder.Redirect.Type;
 import java.util.ArrayList;
 import java.util.List;
-import org.codehaus.jackson.JsonNode;
-import org.codehaus.jackson.map.ObjectMapper;
 
-public class JsonPiola 
+public class app 
 {
     public static void main(String[] args) 
     {
@@ -32,7 +30,9 @@ public class JsonPiola
             jsonObject.get(fieldName); 
         }*/
         
-        System.out.println("----------------" + dameNodosConLocation(nodoPadre).size());
+        /*
+            System.out.println("----------------" + dameNodosConLocation(nodoPadre).size());
+        */
         for(Nodo nodo : dameNodosConLocation(nodoPadre))
         {
             System.out.println(nodo);

@@ -1,27 +1,37 @@
 package model;
 
-
 import java.util.List;
+import org.json.JSONArray;
 
 public class Nodo 
 {
+    /*public String name;
+    public String path;
+    public JSONObject labels;
+    public JSONArray places2go;
+    public JSONArray images;
+    public JSONArray contents;
+    public Boolean isValid;*/
+
+    
     private String name;
     private String path;
-   /* private List<String> alias;*/
+    private Alias alias;
     private List<Nodo> children;
     private List<String> contents;
     private List<String> location;
     
-    public Nodo(String name, String path, String[] alias, List<Nodo> children,List<String> contents, List<String> location)
+    public Nodo(String name, String path, Alias alias, List<Nodo> children,List<String> contents, List<String> location)
     {
         this.name = name;
         this.path = path;
-        //this.alias = alias;
+        this.alias = alias;
         this.children = children;
         this.contents = contents;
         this.location = location;
     }
     
+    //<editor-fold desc="GYS:">
     public String getName() {
         return name;
     }
@@ -38,20 +48,20 @@ public class Nodo
         this.path = path;
     }
 
-    /*public List<String> getAlias() {
-        return alias;
-    }
-
-    public void setAlias(List<String> alias) {
-        this.alias = alias;
-    }*/
-
     public List<String> getLocation() {
         return location;
     }
 
     public void setLocation(List<String> location) {
         this.location = location;
+    }
+
+    public Alias getAlias() {
+        return alias;
+    }
+
+    public void setAlias(Alias alias) {
+        this.alias = alias;
     }
 
     
@@ -70,9 +80,11 @@ public class Nodo
     public void setContents(List<String> contents) {
         this.contents = contents;
     }
-
+    //</editor-fold>
+    
     @Override
-    public String toString() {
+    public String toString()
+    {
         String tabulacion = "   ";
         String salida = "Nodo\n";
         
@@ -97,15 +109,19 @@ public class Nodo
             }
             if(tieneLocation(this))
             {
-                salida += tabulacion + "location:"+ getLocation()+ "\n";
+                salida += tabulacion + "location:"+ getLocation()+ ",\n";
 
+            }
+            if(alias != null)
+            {
+                salida += tabulacion + "alias:" + alias + "\n";
             }
             
         salida+= "}";
                
         return salida;
     }
-     
+    
     /*METODOS IMPORTANTES:*/
     public List<Nodo> cualesDeMisSubNodosTienenLocation()
     {
